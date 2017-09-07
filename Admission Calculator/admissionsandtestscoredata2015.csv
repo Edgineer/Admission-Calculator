@@ -1,0 +1,10 @@
+unitid,institution name,year,Applicants men,Applicants women,Admissions men,Admissions women,Percent admitted - men,Percent admitted - women,SAT Critical Reading 25th percentile score,SAT Critical Reading 75th percentile score,SAT Math 25th percentile score,SAT Math 75th percentile score,SAT Writing 25th percentile score,SAT Writing 75th percentile score,ACT Composite 25th percentile score,ACT Composite 75th percentile score,ACT English 25th percentile score,ACT English 75th percentile score,ACT Math 25th percentile score,ACT Math 75th percentile score
+110404,California Institute of Technology,2015,4781,1725,291,282,6,16,730,800,770,800,730,800,34,35,34,35,34,36
+110583,California State University-Long Beach,2015,23494,34615,7630,12020,32,35,460,570,470,600,,,20,26,19,26,20,27
+110635,University of California-Berkeley,2015,39443,39450,6082,7238,15,18,610,740,640,770,630,760,30,34,31,35,29,35
+110644,University of California-Davis,2015,29571,35031,9840,14678,33,42,510,630,560,710,530,650,25,31,25,32,25,31
+110653,University of California-Irvine,2015,33133,38642,12244,15520,37,40,480,600,550,690,510,620,24,29,23,30,24,30
+110662,University of California-Los Angeles,2015,43336,49354,7140,8876,16,18,580,710,600,760,590,730,28,33,28,34,27,34
+110680,University of California-San Diego,2015,36844,41217,12570,13765,34,33,580,680,640,770,600,710,28,33,28,34,28,34
+123961,University of Southern California,2015,24274,27650,4095,5086,17,18,620,730,650,770,650,750,30,33,30,34,28,34
+243744,Stanford University,2015,22831,19666,1073,1067,5,5,690,780,700,800,690,780,31,35,32,35,30,35
